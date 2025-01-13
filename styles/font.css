@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'largec';
+    src: url('../fonts/21nAyUqD1T1bRRw1nbONUgSSmv8.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'smallc'; 
+    src: url('../fonts/EBOhkTaj72ot8wMxYbT9sIUWuoY.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'bolda';
+    src: url('../../public/fonts/uDrwdCLqWXrxcZD1oX2hvWrBvbc.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'slima'; 
+    src: url('../../public/fonts/WzBLbkMMAVrnv5YdiLYYxepE0.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
